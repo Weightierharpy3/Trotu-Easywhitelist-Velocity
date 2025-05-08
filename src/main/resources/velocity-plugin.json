@@ -1,0 +1,9 @@
+{
+  "id": "easywl",
+  "name": "EasyWhitelist",
+  "version": "1.0-SNAPSHOT",
+  "description": "A simple name-based whitelist plugin for Velocity",
+  "authors": ["Trotu"],
+  "main": "org.trotu.easywl.EasyWhitelist",
+  "dependencies": []
+}
